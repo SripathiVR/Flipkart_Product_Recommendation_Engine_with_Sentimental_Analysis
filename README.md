@@ -55,7 +55,7 @@ The goal is to scrape product reviews from Flipkart, analyze them for sentiment,
 - Clarity of documentation and code quality
 
 ## Link to Deployment
-You can try out the application [here](http://3.109.208.185:8501/).
+You can try out the application [here]((http://15.206.195.147:8501/)).
 
 
 
