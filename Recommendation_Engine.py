@@ -7,7 +7,7 @@ import cohere
 sentiment_data = pd.read_csv("FlipKart_Dataset_with_Sentiment_Analysis.csv")
 
 # Initialize Cohere (Replace with your Cohere API Key)
-cohere_api_key = 'WJ2iUyTPNUTzOLMyWFVvfDChVTZPx43KSboUDQIC'
+cohere_api_key = 'Your API KEY'
 co = cohere.Client(cohere_api_key)
 
 # Function to recommend products based on user query
